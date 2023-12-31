@@ -4,7 +4,7 @@ import lombok.ToString;
 
 @ToString
 @Getter
-public final class Cat {
+public class Cat {
     private final String id;
     private final String text;
     private final String type;
